@@ -4,5 +4,5 @@ tfno = input("Teléfono: ")
 
 datos = [nombre, apell, tfno]
 
-print("Los datos personales son: " + 
-	  datos[0] + " " + datos[1] + " " + datos[2])
+print("Los datos personales son: " + datos[0] + " " + datos[1] + " " +
+      datos[2])

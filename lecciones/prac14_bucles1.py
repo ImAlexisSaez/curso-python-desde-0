@@ -1,14 +1,14 @@
 for i in [1, 2, 3]:
-	print("Hola")
+    print("Hola")
 
 for i in ["enero", "febrero", "marzo"]:
-	print("Hola")
+    print("Hola")
 
 for i in [1, 2, 3]:
-	print(i)
+    print(i)
 
 for i in ["enero", "febrero", "marzo"]:
-	print(i)
+    print(i)
 
 for meses in ["enero", "febrero", "marzo"]:
-	print(meses)
+    print(meses)

@@ -10,6 +10,6 @@ salario_familiar = int(input("Introduce el salario anual bruto: "))
 print("Salario anual bruto: " + str(salario_familiar))
 
 if distancia_escuela > 40 or numero_hermanos > 2 or salario_familiar <= 20000:
-	print("Tienes derecho a beca")
+    print("Tienes derecho a beca")
 else:
-	print("No tienes derecho a beca")
+    print("No tienes derecho a beca")

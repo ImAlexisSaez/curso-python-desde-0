@@ -8,7 +8,8 @@ opcion = input("Escoge la asignatura optativa: ")
 
 asignatura = opcion.lower()
 
-if asignatura in ("informática gráfica", "pruebas de software", "usabilidad y accesibilidad"):
-	print("Asignatura elegida: " + asignatura)
+if asignatura in ("informática gráfica", "pruebas de software",
+                  "usabilidad y accesibilidad"):
+    print("Asignatura elegida: " + asignatura)
 else:
-	print("La asignatura escogida no está contemplada.")
+    print("La asignatura escogida no está contemplada.")

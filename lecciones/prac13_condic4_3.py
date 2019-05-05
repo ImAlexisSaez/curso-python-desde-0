@@ -6,7 +6,8 @@ print("- Usabilidad y accesibilidad")
 
 asignatura = input("Escoge la asignatura optativa: ")
 
-if asignatura in ("Informática gráfica", "Pruebas de software", "Usabilidad y accesibilidad"):
-	print("Asignatura elegida: " + asignatura)
+if asignatura in ("Informática gráfica", "Pruebas de software",
+                  "Usabilidad y accesibilidad"):
+    print("Asignatura elegida: " + asignatura)
 else:
-	print("La asignatura escogida no está contemplada.")
+    print("La asignatura escogida no está contemplada.")

@@ -9,6 +9,7 @@ def evalua_email(direcc):
     else:
         print("El email no es correcto.")
 
+
 direcc = input("Introduce tu dirección de correo electrónico: ")
 
 evalua_email(direcc)
