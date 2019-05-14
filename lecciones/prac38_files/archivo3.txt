@@ -1,0 +1,3 @@
+Comienzo del texto: para estudiar Python
+Esta línea ha sido incluida desde el exterior.
+¡Mañana más!
