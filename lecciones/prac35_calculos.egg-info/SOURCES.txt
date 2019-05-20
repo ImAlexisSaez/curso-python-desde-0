@@ -1,7 +1,0 @@
-setup.py
-prac35_calculos/__init__.py
-prac35_calculos/calculos_generales.py
-prac35_calculos.egg-info/PKG-INFO
-prac35_calculos.egg-info/SOURCES.txt
-prac35_calculos.egg-info/dependency_links.txt
-prac35_calculos.egg-info/top_level.txt
