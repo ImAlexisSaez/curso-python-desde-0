@@ -48,7 +48,7 @@ def crud_create():
     conexion = sqlite3.connect("usuarios")
     cursor = conexion.cursor()
     cursor.execute("INSERT INTO DATOS_USUARIOS VALUES (NULL, '" +
-                   name_data.get() + "', '" + password_data.get() + "','" +
+                   name_data.get() + "', '" + lastname_data.get() + "','" +
                    address_data.get() + "','" + password_data.get() + "','" +
                    comment_text.get("1.0", END) + "')")
     conexion.commit()
