@@ -3,7 +3,6 @@ from tkinter import Button, Entry, Frame, StringVar, Tk
 # Raíz
 raiz = Tk()
 raiz.title("Calculadora")
-raiz.iconbitmap("icon.ico")
 
 # Frame
 frame = Frame(raiz)
