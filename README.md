@@ -4,4 +4,5 @@ En este repositorio almacenaré los distintos ficheros que me han permitido conf
 
 - [Lista de reproducción del curso](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS).
 - [Notas personales](https://imalexissaez.github.io/course/python-basic/).
+- [Reseña del curso](https://imalexissaez.github.io/2019/06/18/resena-curso-python-desde-cero/).
 
